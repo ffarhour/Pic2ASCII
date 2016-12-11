@@ -1,0 +1,6 @@
+{
+  "name": "Pic2ascii",
+  "tagline": "A simple matlab script that converts any image into a copyable ascii art",
+  "body": "# Pic2ASCII\r\nA simple matlab script that converts any image into a copyable ascii art\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
